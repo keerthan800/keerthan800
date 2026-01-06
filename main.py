@@ -2,7 +2,7 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
-@app.get('/')
-def Read_Root():
-    return{"Message":"hello world"}
+@app.get('/kkr')
+def Read_Root(name:str):
+    return{"Name":name}
 
