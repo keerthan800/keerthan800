@@ -3,4 +3,10 @@
 git commit -m "message" ---> to commit the changes
 git push origin master --> to push to master where origin is name of remote, Master the branch name
 git remote add origin https.....githud url ---> to config with git hub
-
+git init --> to create git folder in the new projrct
+git remote -v --> to vertify the remote
+git branch --> to check the branch
+git branch -m main --> to change the name to main
+git checkout -b b1 ---> to create new branch
+git checkout branch name ---> to move to other branch
+git checkout -d b1 ---> to delete the branch
