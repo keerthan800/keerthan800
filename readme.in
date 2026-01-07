@@ -1,0 +1,6 @@
+ git status ---> get the status of all the files
+ git add . ----> to add all the changes to stage to commit
+git commit -m "message" ---> to commit the changes
+git push origin master --> to push to master where origin is name of remote, Master the branch name
+git remote add origin https.....githud url ---> to config with git hub
+
