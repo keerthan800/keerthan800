@@ -10,3 +10,6 @@ git branch -m main --> to change the name to main
 git checkout -b b1 ---> to create new branch
 git checkout branch name ---> to move to other branch
 git checkout -d b1 ---> to delete the branch
+git pull origim main -- to get latest pull.
+git reset file name -> to made undo the changes which are ready for commit
+gir reset head~1 --> to made undo the changes which are alredy commited
